@@ -290,7 +290,7 @@ header .header-widget .menu_toggle {
 	margin: auto;
 	width: 24px;
 	height: 24px;
-	background: url('/images/icons/location.svg') no-repeat left center;
+	background: url('./images/icons/location.svg') no-repeat left center;
 }
 .main_widget{
 	background: #fff;
@@ -448,7 +448,7 @@ fieldset:not(:first-of-type) {
 .input_file_widget.active::before{
 	background: var(--accent);
 	border-color: var(--accent);
-background-image: url('/images/icons/check.svg');
+background-image: url('./images/icons/check.svg');
 background-repeat: no-repeat;
 background-position: center center;
 }
@@ -472,7 +472,7 @@ background-position: center center;
 	top: 0;
 	bottom: 0;
 	margin: auto;
-	background: url('/images/icons/angle.svg') no-repeat center center;
+	background: url('./images/icons/angle.svg') no-repeat center center;
 	width: 10px;
 	height: 10px;
 }
